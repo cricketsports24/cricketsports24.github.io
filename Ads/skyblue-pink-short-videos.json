@@ -5,6 +5,15 @@
         "ShowAds": true,
         "Ads": [
             {
+                "MonetizationId": 2,
+                "MonetizerName": "AdMob",
+                "AdAppKey": "AD_MANAGER_APP",
+                "BannerAdKey": "/22686075355/com.cricketsports.skybluepink.shorts.fonts.banner",
+                "InterstitialAdKey": "/22686075355/com.cricketsports.skybluepink.shorts.fonts.interstitial",
+                "RewardedAdKey": "",
+                "NativeAdKey": "/22686075355/com.cricketsports.skybluepink.shorts.fonts.native"
+            },
+            {
                 "MonetizationId": 6,
                 "MonetizerName": "ironSource",
                 "AdAppKey": "1482a5851",
